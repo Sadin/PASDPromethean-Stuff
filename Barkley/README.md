@@ -16,4 +16,5 @@ https://promethean.my.salesforce.com/sfc/p/3000000002Zt/a/6f000000DS2K/qugvcuqF.
 
 | Date  | Room | Description | Result |
 | ------------- | ------------- | ------------- | ------------- |
-| 11/24  | 114  | Installed unsigned driver | ... |
+| 11/24 | 114 | Installed unsigned driver | ... |
+| 11/24 | 114 | Testing board | No crash 30+ minutes. Using both touch control for windows, whiteboard, ActivInspire and Easy Interactive |
