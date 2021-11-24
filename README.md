@@ -5,7 +5,7 @@ a database for collecting information and troubleshooting older promethean activ
 ***
 
 ### Barkley
-Typically gen1 / gen2 boards.
+gen1 / gen2 boards.
 Due to driver signing and changes in windows 1903 only an unsigned, unsupported, driver could be a potential fix till boards are replaced.
 
 > *see readme/todo in barkley directory for current troubleshooting and breakdown*
