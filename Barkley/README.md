@@ -9,3 +9,11 @@ additionally firmware provided in this directory is the latest and final build f
 
 ### Link to driver
 https://promethean.my.salesforce.com/sfc/p/3000000002Zt/a/6f000000DS2K/qugvcuqF.lcw6VvNU92QnwbUzt_CpxY6L.61O3Z6.wI
+
+***
+
+### Findings
+
+| Date  | Room | Description | Result |
+| ------------- | ------------- | ------------- | ------------- |
+| 11/24  | 114  | Installed unsigned driver | ... |
