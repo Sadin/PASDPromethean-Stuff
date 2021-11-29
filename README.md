@@ -4,6 +4,17 @@ a database for collecting information and troubleshooting older promethean activ
 
 ***
 
+## Aternative Software(s)
+If a computer no longer has ActivInspire on it, this is working list of alternatives for teacher to use.
+- Integrated annotation tools within microsoft office
+    - Word, Powerpoint, Etc ( Desktop versions )
+- Easy Interactive Tools ( Intended for EPSON projectors, but works with Promethean HID devices. Can only use if software is on computer already, cannot install on newly image machine if not going to be used with epson hardware )
+- Chrome annotation extensions
+    - Page Marker
+- Annotate PDFs using Microsoft Edge
+
+***
+
 ### Barkley
 gen1 / gen2 boards.
 Due to driver signing and changes in windows 1903 only an unsigned, unsupported, driver could be a potential fix till boards are replaced.
