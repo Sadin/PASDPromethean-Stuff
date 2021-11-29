@@ -15,6 +15,13 @@ If a computer no longer has ActivInspire on it, this is working list of alternat
 
 ***
 
+## Multi Monitor Support
+In order to support multiple monitors properly the promethean ActivDriver needs the pen to be set to tablet mode. Tablet mode will treat the display that the promethean board is on as the writing surface like a touch screen.
+
+If the promethean software pen input is set to mouse mode, the touch input will get confused and control the mouse relative to its current position on screen. IF it is on the laptop screen and not the projector diplay for instance and the user tries to use the pen in the mode it will move around on the laptop screen.
+
+***
+
 ### Barkley
 gen1 / gen2 boards.
 Due to driver signing and changes in windows 1903 only an unsigned, unsupported, driver could be a potential fix till boards are replaced.
