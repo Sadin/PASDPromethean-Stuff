@@ -19,3 +19,4 @@ https://promethean.my.salesforce.com/sfc/p/3000000002Zt/a/6f000000DS2K/qugvcuqF.
 | 11/24 | 114 | Installed unsigned driver | ... | ...
 | 11/24 | 114 | Testing board | No crash 30+ minutes. | touch control for windows, whiteboard, ActivInspire and Easy Interactive |
 | 11/24 | 114 | Testing board | No crash 1hr+. Wacom and Activboard connected. | touch control for windows, whiteboard, ActivInspire and Easy Interactive |
+| 11/30 | 114 | Teacher using board | Made it through two days of teaching 11/29 & 11/30 no crash | ... |
