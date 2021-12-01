@@ -7,6 +7,15 @@ additionally firmware provided in this directory is the latest and final build f
 
 ***
 
+### Computer Models
+
+| Model | Desc |
+|-------|------|
+| 5580 | Confirmed crashing within a few minutes of attaching board without driver/firmware combo |
+| 5570 | 1 instance where computer did not crash without special driver/firmware |
+
+***
+
 ### Link to driver
 https://promethean.my.salesforce.com/sfc/p/3000000002Zt/a/6f000000DS2K/qugvcuqF.lcw6VvNU92QnwbUzt_CpxY6L.61O3Z6.wI
 
