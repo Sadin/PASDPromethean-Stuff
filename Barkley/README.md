@@ -12,7 +12,8 @@ additionally firmware provided in this directory is the latest and final build f
 | Model | Desc |
 |-------|------|
 | 5580 | Confirmed crashing within a few minutes of attaching board without driver/firmware combo |
-| 5570 | 1 instance where computer did not crash without special driver/firmware |
+| 5570 | 1 instances where computer did not crash without special driver/firmware |
+| 5510 | no crashing reported |
 
 ***
 
