@@ -29,3 +29,6 @@ https://promethean.my.salesforce.com/sfc/p/3000000002Zt/a/6f000000DS2K/qugvcuqF.
 | 11/24 | 114 | Testing board | No crash 30+ minutes. | touch control for windows, whiteboard, ActivInspire and Easy Interactive |
 | 11/24 | 114 | Testing board | No crash 1hr+. Wacom and Activboard connected. | touch control for windows, whiteboard, ActivInspire and Easy Interactive |
 | 11/30 | 114 | Teacher using board | Made it through two days of teaching 11/29 & 11/30 no crash | ... |
+| 12/2 | 114 | Teacher using board | Board working 4 consecutive days! | ... |
+| 11/2 | 311 | Set up board for teacher, Unidirectional type A to Type A usb was backwards. Taught how to calibrate. | Board functional. | Active inspire, whiteboard |
+| 11/30 | 116 | Brought USB A to B for teacher. COnnected board, unsigned ActivDriver installed. Taught teacher how to calibrate | Board functional, demoed with teacher! | ActivInspire |
